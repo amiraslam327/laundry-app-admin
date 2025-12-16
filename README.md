@@ -25,7 +25,7 @@ This admin dashboard controls and manages all data used by the customer-facing l
 
 <p align="center">
   <img src="screenshots/addServices.png" width="230">
-  <img src="screenshots/order.png" width="230">
+  <img src="screenshots/orders.png" width="230">
   <img src="screenshots/orderDeatils.png" width="230">
 </p>
 
