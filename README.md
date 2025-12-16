@@ -18,9 +18,9 @@ This admin dashboard controls and manages all data used by the customer-facing l
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="230">
-  <img src="screenshots/admins.png" width="230">
   <img src="screenshots/login.png" width="230">
+  <img src="screenshots/home.png" width="230">
+  <img src="screenshots/services.png" width="230">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ This admin dashboard controls and manages all data used by the customer-facing l
 
 <p align="center">
   <img src="screenshots/profile.png" width="230">
-  <img src="screenshots/services.png" width="230">
+  <img src="screenshots/admins.png" width="230">
 </p>
 
 ---
