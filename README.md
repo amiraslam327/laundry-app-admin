@@ -15,7 +15,26 @@ It works seamlessly with the **Laundry Customer Mobile App** and is extendable f
 This admin dashboard controls and manages all data used by the customer-facing laundry application, including laundries, services, pricing, discounts, and orders.
 
 ---
+## 📱 App Screenshots
 
+<p align="center">
+  <img src="screenshots/home.png" width="230">
+  <img src="screenshots/admins.png" width="230">
+  <img src="screenshots/login.png" width="230">
+</p>
+
+<p align="center">
+  <img src="screenshots/addServices.png" width="230">
+  <img src="screenshots/order.png" width="230">
+  <img src="screenshots/orderDeatils.png" width="230">
+</p>
+
+<p align="center">
+  <img src="screenshots/profile.png" width="230">
+  <img src="screenshots/servicess.png" width="230">
+</p>
+
+---
 ## 🎯 Purpose of Admin Dashboard
 
 * Centralized control of laundries, services, and orders
